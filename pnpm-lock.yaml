@@ -1578,7 +1578,7 @@ packages:
       '@motionone/easing': 10.15.0
       '@motionone/types': 10.15.0
       '@motionone/utils': 10.15.0
-      tslib: 2.4.0
+      tslib: 2.4.1
     dev: false
 
   /@motionone/dom/10.13.1:
@@ -1589,14 +1589,14 @@ packages:
       '@motionone/types': 10.15.0
       '@motionone/utils': 10.15.0
       hey-listen: 1.0.8
-      tslib: 2.4.0
+      tslib: 2.4.1
     dev: false
 
   /@motionone/easing/10.15.0:
     resolution: {integrity: sha512-VA1a0sa81euSeki2JgVl/t4MygeqfJn7GsMfewoGCln7gp/iZR12HbSo6RaWsHxPkUBRxSRUo+8zeuYRxv6oZQ==}
     dependencies:
       '@motionone/utils': 10.15.0
-      tslib: 2.4.0
+      tslib: 2.4.1
     dev: false
 
   /@motionone/generators/10.15.0:
@@ -1604,7 +1604,7 @@ packages:
     dependencies:
       '@motionone/types': 10.15.0
       '@motionone/utils': 10.15.0
-      tslib: 2.4.0
+      tslib: 2.4.1
     dev: false
 
   /@motionone/types/10.15.0:
@@ -1616,7 +1616,7 @@ packages:
     dependencies:
       '@motionone/types': 10.15.0
       hey-listen: 1.0.8
-      tslib: 2.4.0
+      tslib: 2.4.1
     dev: false
 
   /@nodelib/fs.scandir/2.1.5:
